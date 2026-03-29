@@ -282,10 +282,10 @@ nav.uk-sticky-fixed {
     gap: 8rem;
 }
 
-.about-photo {
+/* .about-photo {
 
     clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
-}
+} */
 
 .about-grid h2 {
     color: #000;

@@ -276,16 +276,16 @@ nav.uk-sticky-fixed {
 
 /* ABOUT AREA */
 
+.about-photo {
+    -webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+            clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+}
+
 .about-grid {
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 8rem;
 }
-
-/* .about-photo {
-
-    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
-} */
 
 .about-grid h2 {
     color: #000;
